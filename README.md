@@ -2,7 +2,7 @@
 ## Abstract  
 This project examines Personnel Retention in a given institution.  
 The goal is to determine the most revelant parameters, how they influence the retention of personnel and a formulation of plan of action.  
-Through Exploratory Data Analysis and Machine Learniung Binary Classification Algorithm, some interesting insights were extracted.  
+Through Exploratory Data Analysis and Machine Learning Binary Classification Algorithm, some interesting insights were extracted.  
 This project has valuable application to the subject of client retention.  
 ## 1. Introduction
 This project arose from the need of a certain institution to increase it's personnel retention power.  
